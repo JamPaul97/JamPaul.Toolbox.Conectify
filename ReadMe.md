@@ -1,4 +1,6 @@
 # Welcome to Conectify!
+<sub><sup>*Missing 'n' is intentional</sup></sub>
+
 
 Hi! This packages is meant to be used as a simple HTTP Server with callbacks for simple thinks.
 Do not mistake this as a full fledged HTTP Web Server, this is meant as a small server that can pass data from a browser or another application.
